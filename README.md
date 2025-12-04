@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🔐 Password Strength Checker
 
-<!--
-**GrooveXlabs/GrooveXlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A simple and beginner-friendly password strength analyzer built under **Groovexlabs**.  
+This tool evaluates a password based on:
 
-Here are some ideas to get you started:
+- Length  
+- Use of uppercase, lowercase, numbers, symbols  
+- Common weak patterns  
+- Overall entropy-style score  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The project is designed for learning cybersecurity fundamentals and practicing Python scripting.
+
+---
+
+## 🚀 Features
+- Rates password from **Very Weak → Excellent**
+- Gives actionable suggestions for improvement
+- Detects weak patterns like:
+  - `123`
+  - `password`
+  - `qwerty`
+- No external libraries required
+
+---
+
+## 📦 Installation & Usage
+
+### **1. Clone or Download the Repo**
