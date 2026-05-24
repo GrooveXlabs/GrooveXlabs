@@ -1,95 +1,98 @@
 <div align="center">
 
-<pre>
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ██████╗ ██████╗  ██████╗  ██████╗ ██╗   ██╗███████╗██╗  ██╗██╗      ██╗   ║
-║  ██╔════╝ ██╔══██╗██╔═══██╗██╔════╝ ██║   ██║██╔════╝╚██╗██╔╝██║      ██║   ║
-║  ██║  ███╗██████╔╝██║   ██║██║  ███╗██║   ██║█████╗   ╚███╔╝ ██║      ██║   ║
-║  ██║   ██║██╔══██╗██║   ██║██║   ██║██║   ██║██╔══╝   ██╔██╗ ██║      ██║   ║
-║  ╚██████╔╝██║  ██║╚██████╔╝╚██████╔╝╚██████╔╝███████╗██╔╝ ██╗███████╗ ██║   ║
-║   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝ ╚═╝   ║
-║                                                                              ║
-║         🔒 Security-First AI Tooling  |  🤖 MCP-Native  |  🌐 Open Source   ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-</pre>
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=700&color=FF006E&center=true&vCenter=true&width=550&lines=GrooveXlabs+Password+Analyzer;Check+Strength.+Learn+Security." alt="Typing Animation" />
 
 <br>
 
-[![Security First](https://img.shields.io/badge/Security-First-ff006e?style=for-the-badge&labelColor=0f0c29)](https://github.com/GrooveXlabs)
-[![MCP Native](https://img.shields.io/badge/MCP-Native-00d4ff?style=for-the-badge&labelColor=0f0c29)](https://github.com/GrooveXlabs)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Always-7b2cbf?style=for-the-badge&labelColor=0f0c29)](https://github.com/GrooveXlabs)
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&labelColor=0f0c29)](https://github.com/GrooveXlabs)
-
-</div>
-
----
-
-## 🧬 The GrooveXlabs Ecosystem
-
-### 🔒 [GrooveGuard](https://github.com/GrooveXlabs/grooveguard) — MCP Server Security Scanner
-
-```
-v0.2.0 | Tests: 61/61 ✓ | Python 3.13
-─────────────────────────────────────────
-Secrets  |  SSRF  |  Validation  |  CVE
-─────────────────────────────────────────
-```
-
-Static analysis for MCP servers. Detects secrets, dangerous capabilities, SSRF risks, manifest misconfigurations, and dependency CVEs. Built-in OWASP LLM & NIST AI policy engines.
-
-### 🌐 [GrooveFetch](https://github.com/GrooveXlabs/groovefetch) — AI-Native Adaptive Web Scraper
-
-```
-v0.1.1 | Tests: 12/12 ✓ | Playwright Stealth
-─────────────────────────────────────────
-Stealth  |  Adapt  |  Schema  |  RAG
-─────────────────────────────────────────
-```
-
-Stealth browsing with per-domain adaptive learning, schema validation, and built-in RAG pipeline. Evades bot detection with fingerprint rotation.
-
-### 🔗 [GrooveLink](https://github.com/GrooveXlabs/groovelink) — Resilient API Client
-
-```
-v0.1.0 | Tests: 40/40 ✓ | Production Ready
-─────────────────────────────────────────
-Circuit  |  Retry  |  Rate Limit  |  Health
-─────────────────────────────────────────
-```
-
-Production-grade API client with circuit breaker, exponential retry, rate limiting, and health checks. Security-first defaults for every request.
-
-### 🛠️ [ToolSmith](https://github.com/GrooveXlabs/toolsmith-agent) — Autonomous Tool Discovery Agent
-
-```
-Active | 5 Gates Automated | gstack Review
-─────────────────────────────────────────
-Discover  |  Analyze  |  Build  |  Ship
-─────────────────────────────────────────
-```
-
-Discovers trending dev tools, analyzes competitor architecture, and builds improved alternatives. Automated 5-gate quality review pipeline.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GrooveXlabs&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00d4ff&text_color=c9c9c9&icon_color=ff006e" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GrooveXlabs&theme=radical&hide_border=true&background=0f0c29&stroke=00d4ff&ring=ff006e&fire=ff006e&currStreakLabel=00d4ff&sideLabels=c9c9c9" width="49%" />
+<!-- Cyberpunk Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header&text=Password%20Strength%20Analyzer&fontSize=35&fontColor=00d4ff&animation=fadeIn&fontAlignY=55&desc=Security-first%20password%20complexity%20checker%20built%20for%20learning&descSize=14&descAlignY=75&descColor=a8a8b3" width="100%" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=GrooveXlabs&theme=radical&no-frame=true&no-bg=true&column=7" width="100%" />
+<!-- Badges -->
+<a href="https://github.com/GrooveXlabs/GrooveXlabs">
+  <img src="https://img.shields.io/badge/🔒%20Security-First-ff006e?style=for-the-badge&labelColor=0f0c29" />
+</a>
+<a href="https://github.com/GrooveXlabs/GrooveXlabs">
+  <img src="https://img.shields.io/badge/🐍%20Python-3.10+-3776AB?style=for-the-badge&labelColor=0f0c29" />
+</a>
+<a href="https://github.com/GrooveXlabs/GrooveXlabs">
+  <img src="https://img.shields.io/badge/📡%20Open%20Source-Always-7b2cbf?style=for-the-badge&labelColor=0f0c29" />
+</a>
+<a href="LICENSE">
+  <img src="https://img.shields.io/badge/📜%20License-MIT-00d4ff?style=for-the-badge&labelColor=0f0c29" />
+</a>
+
+<br><br>
+
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 </div>
 
+## 🔐 Overview
+
+**GrooveXlabs Password Strength Analyzer** is a lightweight, educational Python tool that evaluates password security based on length, character diversity, and common weakness patterns. Built for learning cybersecurity fundamentals — because strong passwords are the first line of defense.
+
 ---
 
-## 🛡️ Core Principles
+## ✨ Features
+
+| Check | Description | Points |
+|-------|-------------|--------|
+| **Length** | 8+ chars = +1, 12+ chars = +2 | 1–2 |
+| **Uppercase** | Contains `A–Z` | +1 |
+| **Lowercase** | Contains `a–z` | +1 |
+| **Digits** | Contains `0–9` | +1 |
+| **Special Chars** | Contains `!@#$%^&*(),.?":{}\|<>]` | +1 |
+| **Pattern Check** | No common weak patterns (`123`, `password`, `qwerty`, etc.) | +1 |
+
+**7 strength levels** from *Very Weak* → *Excellent*, with actionable feedback on every check.
+
+---
+
+## 🚀 Quick Start
+
+```bash
+# Clone the repo
+git clone https://github.com/GrooveXlabs/GrooveXlabs.git
+cd GrooveXlabs
+
+# Run the CLI analyzer
+python password_checker.py
+```
+
+**Example:**
+```bash
+$ python password_checker.py
+Enter a password to test: MyS3cur3!P@ss
+
+Password Strength: Excellent
+Your password looks strong!
+```
+
+---
+
+## 📊 Scoring Logic
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  Score  │  Rating                                            │
+├─────────────────────────────────────────────────────────────┤
+│   0     │  Very Weak  →  Immediately crackable               │
+│   1     │  Weak       →  Guessable in seconds                │
+│   2     │  Moderate   →  Resists basic attacks               │
+│   3     │  Good       →  Decent for low-risk accounts        │
+│   4     │  Strong     →  Brute-force resistant               │
+│   5     │  Very Strong→  Enterprise-grade                    │
+│   6     │  Excellent  →  Maximum entropy achieved            │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🛡️ Security Principles Applied
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -101,47 +104,53 @@ Discovers trending dev tools, analyzes competitor architecture, and builds impro
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-Every tool in the GrooveXlabs ecosystem is built with these six principles. No exceptions.
+> **Privacy Note:** This tool runs entirely offline. No passwords are ever transmitted, logged, or stored.
 
 ---
 
-## 🗺️ Repository Map
+## 🗺️ Related GrooveXlabs Projects
 
-| Repository | Description | Status |
-|---|---|---|
-| [grooveguard](https://github.com/GrooveXlabs/grooveguard) | MCP Server Security Scanner | `v0.2.0` |
-| [groovefetch](https://github.com/GrooveXlabs/groovefetch) | AI-Native Adaptive Web Scraper | `v0.1.1` |
-| [groovelink](https://github.com/GrooveXlabs/groovelink) | Resilient API Client | `v0.1.0` |
-| [toolsmith-agent](https://github.com/GrooveXlabs/toolsmith-agent) | Autonomous Tool Discovery Agent | `Active` |
-| [gstack-kimi](https://github.com/GrooveXlabs/gstack-kimi) | Kimi CLI Skills & Automation | `v1.0` |
-| [AI-SOC-Analyst](https://github.com/GrooveXlabs/AI-SOC-Analyst) | LLM-Powered SOC Log Analyzer | `v0.1` |
-| [Phishing-Shield](https://github.com/GrooveXlabs/Phishing-Shield) | AI Browser Extension | `v0.1` |
-| [SecureCode-AI](https://github.com/GrooveXlabs/SecureCode-AI) | Pre-commit Security Review | `v0.1` |
-| [DarkBrief](https://github.com/GrooveXlabs/DarkBrief) | Threat Intelligence Aggregator | `v0.1` |
-| [bhaaratclaw](https://github.com/GrooveXlabs/bhaaratclaw) | India's First CLAW | `v0.1` |
+| Repository | Description |
+|---|---|
+| [simple-port-scanner](https://github.com/GrooveXlabs/simple-port-scanner) | Educational TCP port scanner |
+| [security-notes](https://github.com/GrooveXlabs/security-notes) | Curated cybersecurity learning notes |
+| [toolsmith-agent](https://github.com/GrooveXlabs/toolsmith-agent) | Autonomous tool discovery & builder |
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 Learning Path
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+1. **Start here** — Understand what makes passwords weak
+2. **Try the scanner** — Test your own passwords safely (offline!)
+3. **Read the code** — See how regex, scoring, and feedback loops work
+4. **Extend it** — Add dictionary checks, entropy calculation, or Have I Been Pwned integration
+
+---
+
+## 🤝 Contributing
+
+Found a bug or want to add a new check? PRs are welcome!
+
+1. Fork the repo
+2. Create a feature branch: `git checkout -b feature/amazing-feature`
+3. Commit your changes: `git commit -m 'Add amazing feature'`
+4. Push to the branch: `git push origin feature/amazing-feature`
+5. Open a Pull Request
+
+---
+
+## 📜 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
 <div align="center">
 
-## 💬 Let's Build Together
-
-[![GitHub](https://img.shields.io/badge/GitHub-GrooveXlabs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GrooveXlabs)
-
 <br>
 
 <sub>🔒 Built with security in mind. Open source by conviction.</sub>
+<br>
+<sub>Maintained by <strong>GrooveXlabs</strong></sub>
 
 </div>
